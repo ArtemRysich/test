@@ -1,2 +1,2 @@
 # test
-<img src="https://github.com/IreneCreadora/filmoteka-dream-team/blob/main/src/images/team/sofiia.jpg">
+<img src="https://drive.google.com/file/d/1ML0WLnVFLzUHKrWmqs-kV-PXAHnh-1QR/view?usp=share_link">
